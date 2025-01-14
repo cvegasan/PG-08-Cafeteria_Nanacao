@@ -1,4 +1,4 @@
-# Prueba cafeteria Nanacao (Testing usando JEST)
+# Prueba Cafeteria Nanacao (Testing usando JEST)
 
 ## Server (Backend)
 npm i -y  
